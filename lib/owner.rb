@@ -1,3 +1,3 @@
 class Owner
-  #has_many_animals
+ Owner = #has_many_animals
 end
